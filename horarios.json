@@ -7,7 +7,7 @@
          "cupo": "401",
          "peliculas": [
             {
-               "nombre": "Maléfica: Dueña Del Mal Esp",
+               "nombre": "MalÃ©fica: DueÃ±a Del Mal Esp",
                "clasificacion": "A",
                "cartel": "MALEFICA2.JPG",
                "duracion": "119",
@@ -35,7 +35,7 @@
                ]
             },
             {
-               "nombre": "Maléfica: Dueña Del Mal Sub",
+               "nombre": "MalÃ©fica: DueÃ±a Del Mal Sub",
                "clasificacion": "A",
                "cartel": "MALEFICA2.JPG",
                "duracion": "119",
@@ -57,9 +57,9 @@
       {
          "numero": "2",
          "cupo": "389",
-         "peliculas": {
-            "pelicula": {
-               "nombre": "Guasón Esp",
+         "peliculas": [
+             {
+               "nombre": "GuasÃ³n Esp",
                "clasificacion": "B15",
                "cartel": "GUASON.jpg",
                "duracion": "122",
@@ -91,14 +91,14 @@
                   }
                ]
             }
-         }
+         ]
       },
       {
          "numero": "3",
          "cupo": "209",
-         "peliculas": {
-            "pelicula": {
-               "nombre": "Guasón Esp",
+         "peliculas": [
+            {
+               "nombre": "GuasÃ³n Esp",
                "clasificacion": "B15",
                "cartel": "GUASON.jpg",
                "duracion": "122",
@@ -130,14 +130,14 @@
                   }
                ]
             }
-         }
+         ]
       },
       {
          "numero": "4",
          "cupo": "209",
          "peliculas": [
             {
-               "nombre": "Maléfica: Dueña Del Mal 3D Esp",
+               "nombre": "MalÃ©fica: DueÃ±a Del Mal 3D Esp",
                "clasificacion": "A",
                "cartel": "MALEFICA2.JPG",
                "duracion": "119",
@@ -163,7 +163,7 @@
                ]
             },
             {
-               "nombre": "Maléfica: Dueña Del Mal Esp",
+               "nombre": "MalÃ©fica: DueÃ±a Del Mal Esp",
                "clasificacion": "A",
                "cartel": "MALEFICA2.JPG",
                "duracion": "119",
@@ -190,9 +190,9 @@
       {
          "numero": "5",
          "cupo": "199",
-         "peliculas": {
-            "pelicula": {
-               "nombre": "Maléfica: Dueña Del Mal SJ Esp",
+         "peliculas": [
+             {
+               "nombre": "MalÃ©fica: DueÃ±a Del Mal SJ Esp",
                "clasificacion": "TBC",
                "cartel": "MALEFICA2.JPG",
                "duracion": "118",
@@ -227,14 +227,14 @@
                   }
                ]
             }
-         }
+         ]
       },
       {
          "numero": "6",
          "cupo": "199",
-         "peliculas": {
-            "pelicula": {
-               "nombre": "Maléfica: Dueña Del Mal Esp",
+         "peliculas": [
+            {
+               "nombre": "MalÃ©fica: DueÃ±a Del Mal Esp",
                "clasificacion": "A",
                "cartel": "MALEFICA2.JPG",
                "duracion": "119",
@@ -266,14 +266,14 @@
                   }
                ]
             }
-         }
+         ]
       },
       {
          "numero": "7",
          "cupo": "199",
-         "peliculas": {
-            "pelicula": {
-               "nombre": "Maléfica: Dueña Del Mal Esp",
+         "peliculas": [
+             {
+               "nombre": "MalÃ©fica: DueÃ±a Del Mal Esp",
                "clasificacion": "A",
                "cartel": "MALEFICA2.JPG",
                "duracion": "119",
@@ -305,14 +305,14 @@
                   }
                ]
             }
-         }
+         ]
       },
       {
          "numero": "8",
          "cupo": "199",
-         "peliculas": {
-            "pelicula": {
-               "nombre": "Guasón Esp",
+         "peliculas": [
+             {
+               "nombre": "GuasÃ³n Esp",
                "clasificacion": "B15",
                "cartel": "GUASON.jpg",
                "duracion": "122",
@@ -344,14 +344,14 @@
                   }
                ]
             }
-         }
+         ]
       },
       {
          "numero": "9",
          "cupo": "136",
-         "peliculas": {
-            "pelicula": {
-               "nombre": "Guasón Sub",
+         "peliculas": [
+            {
+               "nombre": "GuasÃ³n Sub",
                "clasificacion": "B15",
                "cartel": "GUASON.jpg",
                "duracion": "122",
@@ -388,14 +388,14 @@
                   }
                ]
             }
-         }
+         ]
       },
       {
          "numero": "10",
          "cupo": "136",
-         "peliculas": {
-            "pelicula": {
-               "nombre": "Proyecto Géminis Esp",
+         "peliculas": [
+             {
+               "nombre": "Proyecto GÃ©minis Esp",
                "clasificacion": "B",
                "cartel": "PROYECTOGEMINIS.JPG",
                "duracion": "117",
@@ -427,7 +427,7 @@
                   }
                ]
             }
-         }
+         ]
       },
       {
          "numero": "11",
@@ -457,7 +457,7 @@
                ]
             },
             {
-               "nombre": "Guasón Esp",
+               "nombre": "GuasÃ³n Esp",
                "clasificacion": "B15",
                "cartel": "GUASON.jpg",
                "duracion": "122",
@@ -509,7 +509,7 @@
                ]
             },
             {
-               "nombre": "La Posesión de Mercy Black Esp",
+               "nombre": "La PosesiÃ³n de Mercy Black Esp",
                "clasificacion": "B15",
                "cartel": "LAPOSESIONDEMERCYBLACK.JPG",
                "duracion": "88",
@@ -549,8 +549,8 @@
       {
          "numero": "13",
          "cupo": "136",
-         "peliculas": {
-            "pelicula": {
+         "peliculas": [
+             {
                "nombre": "Terror A 47 Metros Esp",
                "clasificacion": "B",
                "cartel": "TERRORA47METROS.jpg",
@@ -588,7 +588,7 @@
                   }
                ]
             }
-         }
+         ]
       },
       {
          "numero": "14",
