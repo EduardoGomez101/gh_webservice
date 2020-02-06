@@ -1,0 +1,646 @@
+{
+   "tipo": "TRADICIONAL",
+   "nombreCine": "CINEPOLIS SALTILLO LA NOGALERA",
+   "sala": [
+      {
+         "numero": "1",
+         "cupo": "401",
+         "peliculas": [
+            {
+               "nombre": "Maléfica: Dueña Del Mal Esp",
+               "clasificacion": "A",
+               "cartel": "MALEFICA2.JPG",
+               "duracion": "119",
+               "sellos": {
+                  "sello": {
+                     "tipo": "ESP"
+                  }
+               },
+               "horarios": [
+                  {
+                     "disponibles": "396",
+                     "vendidos": "5",
+                     "hora": "13:00"
+                  },
+                  {
+                     "disponibles": "399",
+                     "vendidos": "2",
+                     "hora": "15:30"
+                  },
+                  {
+                     "disponibles": "401",
+                     "vendidos": "0",
+                     "hora": "18:00"
+                  }
+               ]
+            },
+            {
+               "nombre": "Maléfica: Dueña Del Mal Sub",
+               "clasificacion": "A",
+               "cartel": "MALEFICA2.JPG",
+               "duracion": "119",
+               "sellos": {
+                  "sello": {
+                     "tipo": "SUBTITULADA"
+                  }
+               },
+               "horarios": {
+                  "hora": {
+                     "disponibles": "401",
+                     "vendidos": "0",
+                     "hora": "20:30"
+                  }
+               }
+            }
+         ]
+      },
+      {
+         "numero": "2",
+         "cupo": "389",
+         "peliculas": {
+            "pelicula": {
+               "nombre": "Guasón Esp",
+               "clasificacion": "B15",
+               "cartel": "GUASON.jpg",
+               "duracion": "122",
+               "sellos": {
+                  "sello": {
+                     "tipo": "ESP"
+                  }
+               },
+               "horarios": [
+                  {
+                     "disponibles": "387",
+                     "vendidos": "2",
+                     "hora": "14:00"
+                  },
+                  {
+                     "disponibles": "389",
+                     "vendidos": "0",
+                     "hora": "16:30"
+                  },
+                  {
+                     "disponibles": "389",
+                     "vendidos": "0",
+                     "hora": "19:00"
+                  },
+                  {
+                     "disponibles": "389",
+                     "vendidos": "0",
+                     "hora": "21:30"
+                  }
+               ]
+            }
+         }
+      },
+      {
+         "numero": "3",
+         "cupo": "209",
+         "peliculas": {
+            "pelicula": {
+               "nombre": "Guasón Esp",
+               "clasificacion": "B15",
+               "cartel": "GUASON.jpg",
+               "duracion": "122",
+               "sellos": {
+                  "sello": {
+                     "tipo": "ESP"
+                  }
+               },
+               "horarios": [
+                  {
+                     "disponibles": "209",
+                     "vendidos": "0",
+                     "hora": "14:30"
+                  },
+                  {
+                     "disponibles": "209",
+                     "vendidos": "0",
+                     "hora": "17:00"
+                  },
+                  {
+                     "disponibles": "209",
+                     "vendidos": "0",
+                     "hora": "19:30"
+                  },
+                  {
+                     "disponibles": "209",
+                     "vendidos": "0",
+                     "hora": "22:10"
+                  }
+               ]
+            }
+         }
+      },
+      {
+         "numero": "4",
+         "cupo": "209",
+         "peliculas": [
+            {
+               "nombre": "Maléfica: Dueña Del Mal 3D Esp",
+               "clasificacion": "A",
+               "cartel": "MALEFICA2.JPG",
+               "duracion": "119",
+               "sellos": [
+                  {
+                     "tipo": "3D"
+                  },
+                  {
+                     "tipo": "ESP"
+                  }
+               ],
+               "horarios": [
+                  {
+                     "disponibles": "200",
+                     "vendidos": "9",
+                     "hora": "14:15"
+                  },
+                  {
+                     "disponibles": "203",
+                     "vendidos": "6",
+                     "hora": "19:15"
+                  }
+               ]
+            },
+            {
+               "nombre": "Maléfica: Dueña Del Mal Esp",
+               "clasificacion": "A",
+               "cartel": "MALEFICA2.JPG",
+               "duracion": "119",
+               "sellos": {
+                  "sello": {
+                     "tipo": "ESP"
+                  }
+               },
+               "horarios": [
+                  {
+                     "disponibles": "209",
+                     "vendidos": "0",
+                     "hora": "16:45"
+                  },
+                  {
+                     "disponibles": "209",
+                     "vendidos": "0",
+                     "hora": "21:45"
+                  }
+               ]
+            }
+         ]
+      },
+      {
+         "numero": "5",
+         "cupo": "199",
+         "peliculas": {
+            "pelicula": {
+               "nombre": "Maléfica: Dueña Del Mal SJ Esp",
+               "clasificacion": "TBC",
+               "cartel": "MALEFICA2.JPG",
+               "duracion": "118",
+               "sellos": [
+                  {
+                     "tipo": "ESP"
+                  },
+                  {
+                     "tipo": "SALA JUNIOR"
+                  }
+               ],
+               "horarios": [
+                  {
+                     "disponibles": "82",
+                     "vendidos": "0",
+                     "hora": "12:40"
+                  },
+                  {
+                     "disponibles": "82",
+                     "vendidos": "0",
+                     "hora": "15:45"
+                  },
+                  {
+                     "disponibles": "78",
+                     "vendidos": "4",
+                     "hora": "18:50"
+                  },
+                  {
+                     "disponibles": "82",
+                     "vendidos": "0",
+                     "hora": "21:55"
+                  }
+               ]
+            }
+         }
+      },
+      {
+         "numero": "6",
+         "cupo": "199",
+         "peliculas": {
+            "pelicula": {
+               "nombre": "Maléfica: Dueña Del Mal Esp",
+               "clasificacion": "A",
+               "cartel": "MALEFICA2.JPG",
+               "duracion": "119",
+               "sellos": {
+                  "sello": {
+                     "tipo": "ESP"
+                  }
+               },
+               "horarios": [
+                  {
+                     "disponibles": "183",
+                     "vendidos": "16",
+                     "hora": "14:55"
+                  },
+                  {
+                     "disponibles": "199",
+                     "vendidos": "0",
+                     "hora": "17:25"
+                  },
+                  {
+                     "disponibles": "199",
+                     "vendidos": "0",
+                     "hora": "19:55"
+                  },
+                  {
+                     "disponibles": "195",
+                     "vendidos": "4",
+                     "hora": "22:25"
+                  }
+               ]
+            }
+         }
+      },
+      {
+         "numero": "7",
+         "cupo": "199",
+         "peliculas": {
+            "pelicula": {
+               "nombre": "Maléfica: Dueña Del Mal Esp",
+               "clasificacion": "A",
+               "cartel": "MALEFICA2.JPG",
+               "duracion": "119",
+               "sellos": {
+                  "sello": {
+                     "tipo": "ESP"
+                  }
+               },
+               "horarios": [
+                  {
+                     "disponibles": "197",
+                     "vendidos": "2",
+                     "hora": "13:40"
+                  },
+                  {
+                     "disponibles": "197",
+                     "vendidos": "2",
+                     "hora": "16:10"
+                  },
+                  {
+                     "disponibles": "197",
+                     "vendidos": "2",
+                     "hora": "18:40"
+                  },
+                  {
+                     "disponibles": "199",
+                     "vendidos": "0",
+                     "hora": "21:10"
+                  }
+               ]
+            }
+         }
+      },
+      {
+         "numero": "8",
+         "cupo": "199",
+         "peliculas": {
+            "pelicula": {
+               "nombre": "Guasón Esp",
+               "clasificacion": "B15",
+               "cartel": "GUASON.jpg",
+               "duracion": "122",
+               "sellos": {
+                  "sello": {
+                     "tipo": "ESP"
+                  }
+               },
+               "horarios": [
+                  {
+                     "disponibles": "195",
+                     "vendidos": "4",
+                     "hora": "13:30"
+                  },
+                  {
+                     "disponibles": "199",
+                     "vendidos": "0",
+                     "hora": "16:00"
+                  },
+                  {
+                     "disponibles": "199",
+                     "vendidos": "0",
+                     "hora": "18:30"
+                  },
+                  {
+                     "disponibles": "199",
+                     "vendidos": "0",
+                     "hora": "21:00"
+                  }
+               ]
+            }
+         }
+      },
+      {
+         "numero": "9",
+         "cupo": "136",
+         "peliculas": {
+            "pelicula": {
+               "nombre": "Guasón Sub",
+               "clasificacion": "B15",
+               "cartel": "GUASON.jpg",
+               "duracion": "122",
+               "sellos": {
+                  "sello": {
+                     "tipo": "SUBTITULADA"
+                  }
+               },
+               "horarios": [
+                  {
+                     "disponibles": "135",
+                     "vendidos": "1",
+                     "hora": "12:30"
+                  },
+                  {
+                     "disponibles": "129",
+                     "vendidos": "7",
+                     "hora": "15:00"
+                  },
+                  {
+                     "disponibles": "136",
+                     "vendidos": "0",
+                     "hora": "17:30"
+                  },
+                  {
+                     "disponibles": "134",
+                     "vendidos": "2",
+                     "hora": "20:00"
+                  },
+                  {
+                     "disponibles": "136",
+                     "vendidos": "0",
+                     "hora": "22:35"
+                  }
+               ]
+            }
+         }
+      },
+      {
+         "numero": "10",
+         "cupo": "136",
+         "peliculas": {
+            "pelicula": {
+               "nombre": "Proyecto Géminis Esp",
+               "clasificacion": "B",
+               "cartel": "PROYECTOGEMINIS.JPG",
+               "duracion": "117",
+               "sellos": {
+                  "sello": {
+                     "tipo": "ESP"
+                  }
+               },
+               "horarios": [
+                  {
+                     "disponibles": "135",
+                     "vendidos": "1",
+                     "hora": "12:50"
+                  },
+                  {
+                     "disponibles": "131",
+                     "vendidos": "5",
+                     "hora": "15:20"
+                  },
+                  {
+                     "disponibles": "136",
+                     "vendidos": "0",
+                     "hora": "18:20"
+                  },
+                  {
+                     "disponibles": "136",
+                     "vendidos": "0",
+                     "hora": "21:20"
+                  }
+               ]
+            }
+         }
+      },
+      {
+         "numero": "11",
+         "cupo": "136",
+         "peliculas": [
+            {
+               "nombre": "108 Costuras Esp",
+               "clasificacion": "A",
+               "cartel": "108COSTURAS.jpg",
+               "duracion": "92",
+               "sellos": {
+                  "sello": {
+                     "tipo": "ESP"
+                  }
+               },
+               "horarios": [
+                  {
+                     "disponibles": "136",
+                     "vendidos": "0",
+                     "hora": "14:05"
+                  },
+                  {
+                     "disponibles": "136",
+                     "vendidos": "0",
+                     "hora": "16:05"
+                  }
+               ]
+            },
+            {
+               "nombre": "Guasón Esp",
+               "clasificacion": "B15",
+               "cartel": "GUASON.jpg",
+               "duracion": "122",
+               "sellos": {
+                  "sello": {
+                     "tipo": "ESP"
+                  }
+               },
+               "horarios": [
+                  {
+                     "disponibles": "136",
+                     "vendidos": "0",
+                     "hora": "18:10"
+                  },
+                  {
+                     "disponibles": "136",
+                     "vendidos": "0",
+                     "hora": "20:40"
+                  }
+               ]
+            }
+         ]
+      },
+      {
+         "numero": "12",
+         "cupo": "136",
+         "peliculas": [
+            {
+               "nombre": "La Boda De La Abuela Esp",
+               "clasificacion": "B",
+               "cartel": "LABODADELAABUELA.JPG",
+               "duracion": "97",
+               "sellos": {
+                  "sello": {
+                     "tipo": "ESP"
+                  }
+               },
+               "horarios": [
+                  {
+                     "disponibles": "136",
+                     "vendidos": "0",
+                     "hora": "13:45"
+                  },
+                  {
+                     "disponibles": "136",
+                     "vendidos": "0",
+                     "hora": "17:50"
+                  }
+               ]
+            },
+            {
+               "nombre": "La Posesión de Mercy Black Esp",
+               "clasificacion": "B15",
+               "cartel": "LAPOSESIONDEMERCYBLACK.JPG",
+               "duracion": "88",
+               "sellos": {
+                  "sello": {
+                     "tipo": "ESP"
+                  }
+               },
+               "horarios": {
+                  "hora": {
+                     "disponibles": "136",
+                     "vendidos": "0",
+                     "hora": "15:50"
+                  }
+               }
+            },
+            {
+               "nombre": "Tod@s Caen Esp",
+               "clasificacion": "B",
+               "cartel": "TODOSCAEN.JPG",
+               "duracion": "118",
+               "sellos": {
+                  "sello": {
+                     "tipo": "ESP"
+                  }
+               },
+               "horarios": {
+                  "hora": {
+                     "disponibles": "136",
+                     "vendidos": "0",
+                     "hora": "20:20"
+                  }
+               }
+            }
+         ]
+      },
+      {
+         "numero": "13",
+         "cupo": "136",
+         "peliculas": {
+            "pelicula": {
+               "nombre": "Terror A 47 Metros Esp",
+               "clasificacion": "B",
+               "cartel": "TERRORA47METROS.jpg",
+               "duracion": "89",
+               "sellos": {
+                  "sello": {
+                     "tipo": "ESP"
+                  }
+               },
+               "horarios": [
+                  {
+                     "disponibles": "131",
+                     "vendidos": "5",
+                     "hora": "13:10"
+                  },
+                  {
+                     "disponibles": "129",
+                     "vendidos": "7",
+                     "hora": "15:10"
+                  },
+                  {
+                     "disponibles": "136",
+                     "vendidos": "0",
+                     "hora": "17:40"
+                  },
+                  {
+                     "disponibles": "136",
+                     "vendidos": "0",
+                     "hora": "20:45"
+                  },
+                  {
+                     "disponibles": "136",
+                     "vendidos": "0",
+                     "hora": "22:45"
+                  }
+               ]
+            }
+         }
+      },
+      {
+         "numero": "14",
+         "cupo": "136",
+         "peliculas": [
+            {
+               "nombre": "La Casa de los Demonios Esp",
+               "clasificacion": "B15",
+               "cartel": "LACASADELOSDEMONIOS.jpg",
+               "duracion": "96",
+               "sellos": {
+                  "sello": {
+                     "tipo": "ESP"
+                  }
+               },
+               "horarios": [
+                  {
+                     "disponibles": "136",
+                     "vendidos": "0",
+                     "hora": "20:10"
+                  },
+                  {
+                     "disponibles": "136",
+                     "vendidos": "0",
+                     "hora": "22:15"
+                  }
+               ]
+            },
+            {
+               "nombre": "Un Amigo Abominable Esp",
+               "clasificacion": "AA",
+               "cartel": "UNAMIGOABOMINABLE.JPG",
+               "duracion": "97",
+               "sellos": {
+                  "sello": {
+                     "tipo": "ESP"
+                  }
+               },
+               "horarios": [
+                  {
+                     "disponibles": "133",
+                     "vendidos": "3",
+                     "hora": "14:40"
+                  },
+                  {
+                     "disponibles": "131",
+                     "vendidos": "5",
+                     "hora": "17:10"
+                  }
+               ]
+            }
+         ]
+      }
+   ]
+}
